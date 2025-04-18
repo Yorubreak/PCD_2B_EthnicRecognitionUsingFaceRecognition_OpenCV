@@ -1,0 +1,61 @@
+Path ,Nama,Suku,Ekspresi,Sudut,Pencahayaan
+"dataset\raw\Yahya\Batak\yahya,batak,senyum,bawah,indoor.jpg",Yahya,Batak,Senyum,Frontal Bawah,Terang
+"dataset\raw\Yahya\Batak\yahya,batak,serius,frontal,indoor.jpg",Yahya,Batak,Serius,Frontal,Terang
+"dataset\raw\Yahya\Batak\yahya,batak,serius-terang,samping,indoor.jpg",Yahya,Batak,Serius,Frontal Kiri,Terang
+"dataset\raw\Yahya\Batak\yahya,batak,serius-normal,samping,indoor.jpg",Yahya,Batak,Serius,Frontal Kiri, Normal
+"dataset\raw\Fredy\Batak\Fredy,Batak, senyum-kaca mata, frontal indoor.jpg",Fredy,Batak,Senyum,Frontal,Terang
+"dataset\raw\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor.jpg",Fredy,Batak,Serius,Frontal,Normal
+"dataset\raw\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor.jpg",Fredy,Batak,Serius,Frontal Kanan,Normal
+"dataset\raw\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor.jpg",Fredy,Batak,Serius,Frontal Kiri,Normal
+"dataset\raw\Richard\Batak\Ricard,Batak,serius, redup, dekat.jpg",Richard,Batak,Serius,Frontal,Normal
+"dataset\raw\Richard\Batak\Ricard,Batak,terkejut, redup, pov atas.jpg",Richard,Batak,Terkejut,Frontal atas,Normal
+"dataset\raw\Richard\Batak\Ricard,Batak,tersenyum, terang, jauh.jpg",Richard,Batak,Tersenyum,Frontal,Terang
+"dataset\raw\Richard\Batak\Ricard,Batak,tertawa, terang, pov bawah.jpg",Richard,Batak,Tertawa,Frontal Bawah,Terang
+"dataset\raw\Nino\Batak\Nino,Batak,serius, frontal, redup.png",Nino,Batak,Serius,Frontal,Normal
+"dataset\raw\Nino\Batak\Nino,Batak,serius,samping,normal.png",Nino,Batak,Serius,Frontal Samping,Normal
+"dataset\raw\Nino\Batak\Nino,Batak,terkejut, frontal, terang.png",Nino,Batak,terkejut,Frontal,Terang
+"dataset\raw\Nino\Batak\Nino,Batak,tersenyum, frontal, redup.png",Nino,Batak,tersenyum,Frontal,Terang
+"dataset\raw\Irfan\Batak\Irfan,Batak,Datar,frontal,indoor.jpg",Irfan,Batak,Serius,Frontal,Normal
+"dataset\raw\Irfan\Batak\Irfan,Batak,Datar,samping,indoor.jpg",Irfan,Batak,Serius,Frontal Kanan,Normal
+"dataset\raw\Irfan\Batak\Irfan,Batak,Datar,sampingkiri,indoor.jpg",Irfan,Batak,Serius,Frontal Kiri,Normal
+"dataset\raw\Irfan\Batak\Irfan,Batak,Tersenyum,frontal,indoor.jpg",Irfan,Batak,tersenyum,Frontal,Normal
+"dataset\raw\Isal\Sunda\Isal,Sunda,Datar,Frontal,Indoor.jpg",raw,Sunda,Datar,Frontal,Normal
+"dataset\raw\Isal\Sunda\Isal,Sunda,Datar,Samping,Indoor.jpg",raw,Sunda,Datar,Samping kanan,Normal
+"dataset\raw\Isal\Sunda\Isal,Sunda,Datar,Sampingkiri,Indoor.jpg",raw,Sunda,Datar,Samping kiri,Normal
+"dataset\raw\Isal\Sunda\Isal,Sunda,Tersenyum,Frontal,Outdoor.jpg",raw,Sunda,Tersenyum,Frontal,Normal
+"dataset\raw\Elvannio\Sunda\Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor.png",Elvannio,Sunda,Menjulurkan lidah,Frontal,Normal
+"dataset\raw\Elvannio\Sunda\Elvannio,Sunda,serius,frontal,indoor.png",Elvannio,Sunda,Serius,Frontal,Normal
+"dataset\raw\Elvannio\Sunda\Elvannio,Sunda,terkejut,frontal,indoor.png",Elvannio,Sunda,Terkejut,Frontal,Normal
+"dataset\raw\Elvannio\Sunda\Elvannio,Sunda,tersenyum,frontal,outdoor.png",Elvannio,Sunda,Tersenyum,Frontal,Normal
+"dataset\raw\Aurel\Sunda\Aurel,Sunda,serius,frontal,indoor.png",Aurel,Sunda,Serius,Frontal,Normal
+"dataset\raw\Aurel\Sunda\Aurel,Sunda,serius,samping,indoor.png",Aurel,Sunda,Serius,Samping,Normal
+"dataset\raw\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,indoor.png",Aurel,Sunda,Tersenyum,Frontal,Normal
+"dataset\raw\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,outdoor.png",Aurel,Sunda,Tersenyum,Frontal,Gelap
+"dataset\raw\Nayla\Sunda\Nayla,Sunda,marah,high angle,terang.png",Nayla,Sunda,Marah,Atas,Terang
+"dataset\raw\Nayla\Sunda\Nayla,Sunda,senyum,frontal,terang(outdoor).png",Nayla,Sunda,Tersenyum,Frontal,Terang
+"dataset\raw\Nayla\Sunda\Nayla,Sunda,serius,frontal,redup(indoor).png",Nayla,Sunda,Serius,Frontal,Terang
+"dataset\raw\Nayla\Sunda\Nayla,Sunda,tersenyum,high angle,indoor.png",Nayla,Sunda,Tersenyum,Frontal,Normal
+"dataset\raw\Raina\Sunda\Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor).png",Raina,Sunda,Menjulurkan lidah,Frontal,Normal
+"dataset\raw\Raina\Sunda\Raina,Sunda,serius,frontal,indoor.png",Raina,Sunda,Serius,Frontal,Normal
+"dataset\raw\Raina\Sunda\Raina,Sunda,terkejut,frontal,indoor.png",Raina,Sunda,Terkejut,Frontal,Normal
+"dataset\raw\Raina\Sunda\Raina,Sunda,tersenyum,frontal,terang(outdoor).png",Raina,Sunda,Tersenyum,Frontal,Normal
+"dataset\raw\Muthia\Jawa\Muthia,Jawa,serius,frontal,normal.png",Muthia,Jawa,Serius,Frontal,Normal
+"dataset\raw\Muthia\Jawa\Muthia,Jawa,terkejut,frontal,normal.png",Muthia,Jawa,Terkejut,Frontal,Normal
+"dataset\raw\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor.png",Muthia,Jawa,Tersenyum,Frontal,Terang-indoor
+"dataset\raw\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor.png",Muthia,Jawa,Tersenyum,Frontal,Terang-outdoor
+"dataset\raw\Amalia\Jawa\Amalia,Jawa,serius,miring,Terang.png",Amalia,Jawa,Serius,Miring,Terang
+"dataset\raw\Amalia\Jawa\Amalia,Jawa,mengjulurkan lidah,frontal,normal.png",Amalia,Jawa,menjulurkan lidah,Frontal,normal
+"dataset\raw\Amalia\Jawa\Amalia,Jawa,tersenyum gigi,miring,Terang.png",Amalia,Jawa,Tersenyum,Miring,Terang
+"dataset\raw\Amalia\Jawa\Amalia,Jawa,tersenyum,frontal,Terang.png",Amalia,Jawa,Tersenyum,Frontal,Terang
+"dataset\raw\Emiyati\Jawa\Emiyati,Jawa,imut,frontal,normal.png",Emiyati,Jawa,Imut,Frontal,Normal
+"dataset\raw\Emiyati\Jawa\Emiyati,Jawa,serius,frontalBawah,normal.png",Emiyati,Jawa,Serius,FrontalBawah,normal
+"dataset\raw\Emiyati\Jawa\Emiyati,Jawa,terkejut,frontal,normal.png",Emiyati,Jawa,Terkejut,Frontal,Normal
+"dataset\raw\Emiyati\Jawa\Emiyati,Jawa,tersenyum,miring,redup.png",Emiyati,Jawa,Tersenyum,Miring,Redup
+"dataset\raw\Febytha\Jawa\Febytha,Jawa,mengjulurkan lidah,frontal,normal.png",Febytha,Jawa,menjulurkan lidah,FrontalAtas,Normal
+"dataset\raw\Febytha\Jawa\Febytha,Jawa,serius,frontalBawah,normal.png",Febytha,Jawa,Serius,FrontalBawah,Normal
+"dataset\raw\Febytha\Jawa\Febytha,Jawa,terkejut,frontal,normal.png",Febytha,Jawa,Terkejut,Frontal,Normal
+"dataset\raw\Febytha\Jawa\Febytha,Jawa,tersenyum,frontal,terang.png",Febytha,Jawa,Tersenyum,Frontal,Terang
+"dataset\raw\Fleecy\Jawa\Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang.png",Fleecy,Jawa,menjulurkan lidah,FrontalAtas,Terang
+"dataset\raw\Fleecy\Jawa\Fleecy,Jawa,serius,frontal,normal.png",Fleecy,Jawa,Serius,Frontal,Normal
+"dataset\raw\Fleecy\Jawa\Fleecy,Jawa,terkejut,frontal,normal.png",Fleecy,Jawa,Terkejut,Frontal,Normal
+"dataset\raw\Fleecy\Jawa\Fleecy,Jawa,tersenyum,frontal,gelap.png",Fleecy,Jawa,Tersenyum,Frontal,Gelap
