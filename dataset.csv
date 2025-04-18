@@ -1,0 +1,694 @@
+Path,Nama,Suku,Ekspresi,Sudut,Pencahayaan
+"dataset\preprocessed\Yahya\Batak\yahya,batak,senyum,bawah,indoor.jpg",yahya,batak,senyum,bawah,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,senyum,bawah,indoor_bright.jpg",yahya,batak,senyum,bawah,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,senyum,bawah,indoor_dark.jpg",yahya,batak,senyum,bawah,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,senyum,bawah,indoor_sharpened.jpg",yahya,batak,senyum,bawah,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,senyum,bawah,indoor_contrast.jpg",yahya,batak,senyum,bawah,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,senyum,bawah,indoor_clahe.jpg",yahya,batak,senyum,bawah,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,senyum,bawah,indoor_rotate_kanan.jpg",yahya,batak,senyum,bawah,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,senyum,bawah,indoor_rotate_kiri.jpg",yahya,batak,senyum,bawah,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,senyum,bawah,indoor_flip.jpg",yahya,batak,senyum,bawah,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,senyum,bawah,indoor_saturation.jpg",yahya,batak,senyum,bawah,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,senyum,bawah,indoor_noise.jpg",yahya,batak,senyum,bawah,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius,frontal,indoor.jpg",yahya,batak,serius,frontal,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius,frontal,indoor_bright.jpg",yahya,batak,serius,frontal,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius,frontal,indoor_dark.jpg",yahya,batak,serius,frontal,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius,frontal,indoor_sharpened.jpg",yahya,batak,serius,frontal,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius,frontal,indoor_contrast.jpg",yahya,batak,serius,frontal,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius,frontal,indoor_clahe.jpg",yahya,batak,serius,frontal,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius,frontal,indoor_rotate_kanan.jpg",yahya,batak,serius,frontal,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius,frontal,indoor_rotate_kiri.jpg",yahya,batak,serius,frontal,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius,frontal,indoor_flip.jpg",yahya,batak,serius,frontal,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius,frontal,indoor_saturation.jpg",yahya,batak,serius,frontal,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius,frontal,indoor_noise.jpg",yahya,batak,serius,frontal,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-terang,samping,indoor.jpg",yahya,batak,serius-terang,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-terang,samping,indoor_bright.jpg",yahya,batak,serius-terang,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-terang,samping,indoor_dark.jpg",yahya,batak,serius-terang,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-terang,samping,indoor_sharpened.jpg",yahya,batak,serius-terang,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-terang,samping,indoor_contrast.jpg",yahya,batak,serius-terang,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-terang,samping,indoor_clahe.jpg",yahya,batak,serius-terang,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-terang,samping,indoor_rotate_kanan.jpg",yahya,batak,serius-terang,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-terang,samping,indoor_rotate_kiri.jpg",yahya,batak,serius-terang,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-terang,samping,indoor_flip.jpg",yahya,batak,serius-terang,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-terang,samping,indoor_saturation.jpg",yahya,batak,serius-terang,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-terang,samping,indoor_noise.jpg",yahya,batak,serius-terang,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-normal,samping,indoor.jpg",yahya,batak,serius-normal,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-normal,samping,indoor_bright.jpg",yahya,batak,serius-normal,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-normal,samping,indoor_dark.jpg",yahya,batak,serius-normal,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-normal,samping,indoor_sharpened.jpg",yahya,batak,serius-normal,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-normal,samping,indoor_contrast.jpg",yahya,batak,serius-normal,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-normal,samping,indoor_clahe.jpg",yahya,batak,serius-normal,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-normal,samping,indoor_rotate_kanan.jpg",yahya,batak,serius-normal,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-normal,samping,indoor_rotate_kiri.jpg",yahya,batak,serius-normal,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-normal,samping,indoor_flip.jpg",yahya,batak,serius-normal,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-normal,samping,indoor_saturation.jpg",yahya,batak,serius-normal,samping,indoor
+"dataset\preprocessed\Yahya\Batak\yahya,batak,serius-normal,samping,indoor_noise.jpg",yahya,batak,serius-normal,samping,indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, senyum-kaca mata, frontal indoor.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, senyum-kaca mata, frontal indoor_bright.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, senyum-kaca mata, frontal indoor_dark.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, senyum-kaca mata, frontal indoor_sharpened.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, senyum-kaca mata, frontal indoor_contrast.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, senyum-kaca mata, frontal indoor_clahe.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, senyum-kaca mata, frontal indoor_rotate_kanan.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, senyum-kaca mata, frontal indoor_rotate_kiri.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, senyum-kaca mata, frontal indoor_flip.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, senyum-kaca mata, frontal indoor_saturation.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, senyum-kaca mata, frontal indoor_noise.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_bright.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_dark.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_sharpened.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_contrast.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_clahe.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_rotate_kanan.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_rotate_kiri.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_flip.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_saturation.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_noise.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_bright.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_dark.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_sharpened.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_contrast.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_clahe.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_rotate_kanan.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_rotate_kiri.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_flip.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_saturation.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor_noise.jpg",Fredy,Batak, serius-tanpa kaca mata, frontal kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_bright.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_dark.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_sharpened.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_contrast.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_clahe.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_rotate_kanan.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_rotate_kiri.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_flip.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_saturation.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_noise.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_bright.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_dark.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_sharpened.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_contrast.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_clahe.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_rotate_kanan.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_rotate_kiri.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_flip.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_saturation.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor_noise.jpg",Fredy,Batak, serius-tanpa kaca mata, samping kanan, indoor
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_bright.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_dark.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_sharpened.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_contrast.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_clahe.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_rotate_kanan.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_rotate_kiri.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_flip.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_saturation.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_noise.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_bright.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_dark.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_sharpened.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_contrast.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_clahe.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_rotate_kanan.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_rotate_kiri.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_flip.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_saturation.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Fredy\Batak\Fredy,Batak, serius-tanpa kaca mata, samping kiri indoor_noise.jpg",Unknown,Unknown,Unknown,Unknown,Unknown
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,serius, redup, dekat.jpg",Ricard,Batak,serius, redup, dekat
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,serius, redup, dekat_bright.jpg",Ricard,Batak,serius, redup, dekat
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,serius, redup, dekat_dark.jpg",Ricard,Batak,serius, redup, dekat
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,serius, redup, dekat_sharpened.jpg",Ricard,Batak,serius, redup, dekat
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,serius, redup, dekat_contrast.jpg",Ricard,Batak,serius, redup, dekat
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,serius, redup, dekat_clahe.jpg",Ricard,Batak,serius, redup, dekat
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,serius, redup, dekat_rotate_kanan.jpg",Ricard,Batak,serius, redup, dekat
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,serius, redup, dekat_rotate_kiri.jpg",Ricard,Batak,serius, redup, dekat
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,serius, redup, dekat_flip.jpg",Ricard,Batak,serius, redup, dekat
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,serius, redup, dekat_saturation.jpg",Ricard,Batak,serius, redup, dekat
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,serius, redup, dekat_noise.jpg",Ricard,Batak,serius, redup, dekat
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,terkejut, redup, pov atas.jpg",Ricard,Batak,terkejut, redup, pov atas
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,terkejut, redup, pov atas_bright.jpg",Ricard,Batak,terkejut, redup, pov atas
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,terkejut, redup, pov atas_dark.jpg",Ricard,Batak,terkejut, redup, pov atas
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,terkejut, redup, pov atas_sharpened.jpg",Ricard,Batak,terkejut, redup, pov atas
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,terkejut, redup, pov atas_contrast.jpg",Ricard,Batak,terkejut, redup, pov atas
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,terkejut, redup, pov atas_clahe.jpg",Ricard,Batak,terkejut, redup, pov atas
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,terkejut, redup, pov atas_rotate_kanan.jpg",Ricard,Batak,terkejut, redup, pov atas
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,terkejut, redup, pov atas_rotate_kiri.jpg",Ricard,Batak,terkejut, redup, pov atas
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,terkejut, redup, pov atas_flip.jpg",Ricard,Batak,terkejut, redup, pov atas
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,terkejut, redup, pov atas_saturation.jpg",Ricard,Batak,terkejut, redup, pov atas
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,terkejut, redup, pov atas_noise.jpg",Ricard,Batak,terkejut, redup, pov atas
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tersenyum, terang, jauh.jpg",Ricard,Batak,tersenyum, terang, jauh
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tersenyum, terang, jauh_bright.jpg",Ricard,Batak,tersenyum, terang, jauh
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tersenyum, terang, jauh_dark.jpg",Ricard,Batak,tersenyum, terang, jauh
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tersenyum, terang, jauh_sharpened.jpg",Ricard,Batak,tersenyum, terang, jauh
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tersenyum, terang, jauh_contrast.jpg",Ricard,Batak,tersenyum, terang, jauh
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tersenyum, terang, jauh_clahe.jpg",Ricard,Batak,tersenyum, terang, jauh
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tersenyum, terang, jauh_rotate_kanan.jpg",Ricard,Batak,tersenyum, terang, jauh
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tersenyum, terang, jauh_rotate_kiri.jpg",Ricard,Batak,tersenyum, terang, jauh
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tersenyum, terang, jauh_flip.jpg",Ricard,Batak,tersenyum, terang, jauh
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tersenyum, terang, jauh_saturation.jpg",Ricard,Batak,tersenyum, terang, jauh
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tersenyum, terang, jauh_noise.jpg",Ricard,Batak,tersenyum, terang, jauh
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tertawa, terang, pov bawah.jpg",Ricard,Batak,tertawa, terang, pov bawah
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tertawa, terang, pov bawah_bright.jpg",Ricard,Batak,tertawa, terang, pov bawah
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tertawa, terang, pov bawah_dark.jpg",Ricard,Batak,tertawa, terang, pov bawah
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tertawa, terang, pov bawah_sharpened.jpg",Ricard,Batak,tertawa, terang, pov bawah
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tertawa, terang, pov bawah_contrast.jpg",Ricard,Batak,tertawa, terang, pov bawah
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tertawa, terang, pov bawah_clahe.jpg",Ricard,Batak,tertawa, terang, pov bawah
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tertawa, terang, pov bawah_rotate_kanan.jpg",Ricard,Batak,tertawa, terang, pov bawah
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tertawa, terang, pov bawah_rotate_kiri.jpg",Ricard,Batak,tertawa, terang, pov bawah
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tertawa, terang, pov bawah_flip.jpg",Ricard,Batak,tertawa, terang, pov bawah
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tertawa, terang, pov bawah_saturation.jpg",Ricard,Batak,tertawa, terang, pov bawah
+"dataset\preprocessed\Richard\Batak\Ricard,Batak,tertawa, terang, pov bawah_noise.jpg",Ricard,Batak,tertawa, terang, pov bawah
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius, frontal, redup.jpg",Nino,Batak,serius, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius, frontal, redup_bright.jpg",Nino,Batak,serius, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius, frontal, redup_dark.jpg",Nino,Batak,serius, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius, frontal, redup_sharpened.jpg",Nino,Batak,serius, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius, frontal, redup_contrast.jpg",Nino,Batak,serius, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius, frontal, redup_clahe.jpg",Nino,Batak,serius, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius, frontal, redup_rotate_kanan.jpg",Nino,Batak,serius, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius, frontal, redup_rotate_kiri.jpg",Nino,Batak,serius, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius, frontal, redup_flip.jpg",Nino,Batak,serius, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius, frontal, redup_saturation.jpg",Nino,Batak,serius, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius, frontal, redup_noise.jpg",Nino,Batak,serius, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius,samping,normal.jpg",Nino,Batak,serius,samping,normal
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius,samping,normal_bright.jpg",Nino,Batak,serius,samping,normal
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius,samping,normal_dark.jpg",Nino,Batak,serius,samping,normal
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius,samping,normal_sharpened.jpg",Nino,Batak,serius,samping,normal
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius,samping,normal_contrast.jpg",Nino,Batak,serius,samping,normal
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius,samping,normal_clahe.jpg",Nino,Batak,serius,samping,normal
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius,samping,normal_rotate_kanan.jpg",Nino,Batak,serius,samping,normal
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius,samping,normal_rotate_kiri.jpg",Nino,Batak,serius,samping,normal
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius,samping,normal_flip.jpg",Nino,Batak,serius,samping,normal
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius,samping,normal_saturation.jpg",Nino,Batak,serius,samping,normal
+"dataset\preprocessed\Nino\Batak\Nino,Batak,serius,samping,normal_noise.jpg",Nino,Batak,serius,samping,normal
+"dataset\preprocessed\Nino\Batak\Nino,Batak,terkejut, frontal, terang.jpg",Nino,Batak,terkejut, frontal, terang
+"dataset\preprocessed\Nino\Batak\Nino,Batak,terkejut, frontal, terang_bright.jpg",Nino,Batak,terkejut, frontal, terang
+"dataset\preprocessed\Nino\Batak\Nino,Batak,terkejut, frontal, terang_dark.jpg",Nino,Batak,terkejut, frontal, terang
+"dataset\preprocessed\Nino\Batak\Nino,Batak,terkejut, frontal, terang_sharpened.jpg",Nino,Batak,terkejut, frontal, terang
+"dataset\preprocessed\Nino\Batak\Nino,Batak,terkejut, frontal, terang_contrast.jpg",Nino,Batak,terkejut, frontal, terang
+"dataset\preprocessed\Nino\Batak\Nino,Batak,terkejut, frontal, terang_clahe.jpg",Nino,Batak,terkejut, frontal, terang
+"dataset\preprocessed\Nino\Batak\Nino,Batak,terkejut, frontal, terang_rotate_kanan.jpg",Nino,Batak,terkejut, frontal, terang
+"dataset\preprocessed\Nino\Batak\Nino,Batak,terkejut, frontal, terang_rotate_kiri.jpg",Nino,Batak,terkejut, frontal, terang
+"dataset\preprocessed\Nino\Batak\Nino,Batak,terkejut, frontal, terang_flip.jpg",Nino,Batak,terkejut, frontal, terang
+"dataset\preprocessed\Nino\Batak\Nino,Batak,terkejut, frontal, terang_saturation.jpg",Nino,Batak,terkejut, frontal, terang
+"dataset\preprocessed\Nino\Batak\Nino,Batak,terkejut, frontal, terang_noise.jpg",Nino,Batak,terkejut, frontal, terang
+"dataset\preprocessed\Nino\Batak\Nino,Batak,tersenyum, frontal, redup.jpg",Nino,Batak,tersenyum, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,tersenyum, frontal, redup_bright.jpg",Nino,Batak,tersenyum, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,tersenyum, frontal, redup_dark.jpg",Nino,Batak,tersenyum, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,tersenyum, frontal, redup_sharpened.jpg",Nino,Batak,tersenyum, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,tersenyum, frontal, redup_contrast.jpg",Nino,Batak,tersenyum, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,tersenyum, frontal, redup_clahe.jpg",Nino,Batak,tersenyum, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,tersenyum, frontal, redup_rotate_kanan.jpg",Nino,Batak,tersenyum, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,tersenyum, frontal, redup_rotate_kiri.jpg",Nino,Batak,tersenyum, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,tersenyum, frontal, redup_flip.jpg",Nino,Batak,tersenyum, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,tersenyum, frontal, redup_saturation.jpg",Nino,Batak,tersenyum, frontal, redup
+"dataset\preprocessed\Nino\Batak\Nino,Batak,tersenyum, frontal, redup_noise.jpg",Nino,Batak,tersenyum, frontal, redup
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,frontal,indoor.jpg",Irfan,Batak,Datar,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,frontal,indoor_bright.jpg",Irfan,Batak,Datar,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,frontal,indoor_dark.jpg",Irfan,Batak,Datar,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,frontal,indoor_sharpened.jpg",Irfan,Batak,Datar,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,frontal,indoor_contrast.jpg",Irfan,Batak,Datar,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,frontal,indoor_clahe.jpg",Irfan,Batak,Datar,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,frontal,indoor_rotate_kanan.jpg",Irfan,Batak,Datar,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,frontal,indoor_rotate_kiri.jpg",Irfan,Batak,Datar,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,frontal,indoor_flip.jpg",Irfan,Batak,Datar,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,frontal,indoor_saturation.jpg",Irfan,Batak,Datar,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,frontal,indoor_noise.jpg",Irfan,Batak,Datar,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,samping,indoor.jpg",Irfan,Batak,Datar,samping,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,samping,indoor_bright.jpg",Irfan,Batak,Datar,samping,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,samping,indoor_dark.jpg",Irfan,Batak,Datar,samping,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,samping,indoor_sharpened.jpg",Irfan,Batak,Datar,samping,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,samping,indoor_contrast.jpg",Irfan,Batak,Datar,samping,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,samping,indoor_clahe.jpg",Irfan,Batak,Datar,samping,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,samping,indoor_rotate_kanan.jpg",Irfan,Batak,Datar,samping,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,samping,indoor_rotate_kiri.jpg",Irfan,Batak,Datar,samping,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,samping,indoor_flip.jpg",Irfan,Batak,Datar,samping,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,samping,indoor_saturation.jpg",Irfan,Batak,Datar,samping,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,samping,indoor_noise.jpg",Irfan,Batak,Datar,samping,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,sampingkiri,indoor.jpg",Irfan,Batak,Datar,sampingkiri,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,sampingkiri,indoor_bright.jpg",Irfan,Batak,Datar,sampingkiri,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,sampingkiri,indoor_dark.jpg",Irfan,Batak,Datar,sampingkiri,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,sampingkiri,indoor_sharpened.jpg",Irfan,Batak,Datar,sampingkiri,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,sampingkiri,indoor_contrast.jpg",Irfan,Batak,Datar,sampingkiri,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,sampingkiri,indoor_clahe.jpg",Irfan,Batak,Datar,sampingkiri,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,sampingkiri,indoor_rotate_kanan.jpg",Irfan,Batak,Datar,sampingkiri,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,sampingkiri,indoor_rotate_kiri.jpg",Irfan,Batak,Datar,sampingkiri,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,sampingkiri,indoor_flip.jpg",Irfan,Batak,Datar,sampingkiri,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,sampingkiri,indoor_saturation.jpg",Irfan,Batak,Datar,sampingkiri,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Datar,sampingkiri,indoor_noise.jpg",Irfan,Batak,Datar,sampingkiri,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Tersenyum,frontal,indoor.jpg",Irfan,Batak,Tersenyum,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Tersenyum,frontal,indoor_bright.jpg",Irfan,Batak,Tersenyum,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Tersenyum,frontal,indoor_dark.jpg",Irfan,Batak,Tersenyum,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Tersenyum,frontal,indoor_sharpened.jpg",Irfan,Batak,Tersenyum,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Tersenyum,frontal,indoor_contrast.jpg",Irfan,Batak,Tersenyum,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Tersenyum,frontal,indoor_clahe.jpg",Irfan,Batak,Tersenyum,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Tersenyum,frontal,indoor_rotate_kanan.jpg",Irfan,Batak,Tersenyum,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Tersenyum,frontal,indoor_rotate_kiri.jpg",Irfan,Batak,Tersenyum,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Tersenyum,frontal,indoor_flip.jpg",Irfan,Batak,Tersenyum,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Tersenyum,frontal,indoor_saturation.jpg",Irfan,Batak,Tersenyum,frontal,indoor
+"dataset\preprocessed\Irfan\Batak\Irfan,Batak,Tersenyum,frontal,indoor_noise.jpg",Irfan,Batak,Tersenyum,frontal,indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Frontal,Indoor.jpg",Isal,Sunda,Datar,Frontal,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Frontal,Indoor_bright.jpg",Isal,Sunda,Datar,Frontal,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Frontal,Indoor_dark.jpg",Isal,Sunda,Datar,Frontal,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Frontal,Indoor_sharpened.jpg",Isal,Sunda,Datar,Frontal,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Frontal,Indoor_contrast.jpg",Isal,Sunda,Datar,Frontal,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Frontal,Indoor_clahe.jpg",Isal,Sunda,Datar,Frontal,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Frontal,Indoor_rotate_kanan.jpg",Isal,Sunda,Datar,Frontal,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Frontal,Indoor_rotate_kiri.jpg",Isal,Sunda,Datar,Frontal,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Frontal,Indoor_flip.jpg",Isal,Sunda,Datar,Frontal,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Frontal,Indoor_saturation.jpg",Isal,Sunda,Datar,Frontal,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Frontal,Indoor_noise.jpg",Isal,Sunda,Datar,Frontal,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Samping,Indoor.jpg",Isal,Sunda,Datar,Samping,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Samping,Indoor_bright.jpg",Isal,Sunda,Datar,Samping,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Samping,Indoor_dark.jpg",Isal,Sunda,Datar,Samping,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Samping,Indoor_sharpened.jpg",Isal,Sunda,Datar,Samping,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Samping,Indoor_contrast.jpg",Isal,Sunda,Datar,Samping,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Samping,Indoor_clahe.jpg",Isal,Sunda,Datar,Samping,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Samping,Indoor_rotate_kanan.jpg",Isal,Sunda,Datar,Samping,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Samping,Indoor_rotate_kiri.jpg",Isal,Sunda,Datar,Samping,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Samping,Indoor_flip.jpg",Isal,Sunda,Datar,Samping,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Samping,Indoor_saturation.jpg",Isal,Sunda,Datar,Samping,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Samping,Indoor_noise.jpg",Isal,Sunda,Datar,Samping,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Sampingkiri,Indoor.jpg",Isal,Sunda,Datar,Sampingkiri,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Sampingkiri,Indoor_bright.jpg",Isal,Sunda,Datar,Sampingkiri,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Sampingkiri,Indoor_dark.jpg",Isal,Sunda,Datar,Sampingkiri,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Sampingkiri,Indoor_sharpened.jpg",Isal,Sunda,Datar,Sampingkiri,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Sampingkiri,Indoor_contrast.jpg",Isal,Sunda,Datar,Sampingkiri,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Sampingkiri,Indoor_clahe.jpg",Isal,Sunda,Datar,Sampingkiri,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Sampingkiri,Indoor_rotate_kanan.jpg",Isal,Sunda,Datar,Sampingkiri,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Sampingkiri,Indoor_rotate_kiri.jpg",Isal,Sunda,Datar,Sampingkiri,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Sampingkiri,Indoor_flip.jpg",Isal,Sunda,Datar,Sampingkiri,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Sampingkiri,Indoor_saturation.jpg",Isal,Sunda,Datar,Sampingkiri,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Datar,Sampingkiri,Indoor_noise.jpg",Isal,Sunda,Datar,Sampingkiri,Indoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Tersenyum,Frontal,Outdoor.jpg",Isal,Sunda,Tersenyum,Frontal,Outdoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Tersenyum,Frontal,Outdoor_bright.jpg",Isal,Sunda,Tersenyum,Frontal,Outdoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Tersenyum,Frontal,Outdoor_dark.jpg",Isal,Sunda,Tersenyum,Frontal,Outdoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Tersenyum,Frontal,Outdoor_sharpened.jpg",Isal,Sunda,Tersenyum,Frontal,Outdoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Tersenyum,Frontal,Outdoor_contrast.jpg",Isal,Sunda,Tersenyum,Frontal,Outdoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Tersenyum,Frontal,Outdoor_clahe.jpg",Isal,Sunda,Tersenyum,Frontal,Outdoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Tersenyum,Frontal,Outdoor_rotate_kanan.jpg",Isal,Sunda,Tersenyum,Frontal,Outdoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Tersenyum,Frontal,Outdoor_rotate_kiri.jpg",Isal,Sunda,Tersenyum,Frontal,Outdoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Tersenyum,Frontal,Outdoor_flip.jpg",Isal,Sunda,Tersenyum,Frontal,Outdoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Tersenyum,Frontal,Outdoor_saturation.jpg",Isal,Sunda,Tersenyum,Frontal,Outdoor
+"dataset\preprocessed\Isal\Sunda\Isal,Sunda,Tersenyum,Frontal,Outdoor_noise.jpg",Isal,Sunda,Tersenyum,Frontal,Outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor.jpg",Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor_bright.jpg",Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor_dark.jpg",Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor_sharpened.jpg",Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor_contrast.jpg",Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor_clahe.jpg",Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor_rotate_kanan.jpg",Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor_rotate_kiri.jpg",Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor_flip.jpg",Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor_saturation.jpg",Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor_noise.jpg",Elvannio,Sunda,menjulurkan lidah,frontal,Outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,serius,frontal,indoor.jpg",Elvannio,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,serius,frontal,indoor_bright.jpg",Elvannio,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,serius,frontal,indoor_dark.jpg",Elvannio,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,serius,frontal,indoor_sharpened.jpg",Elvannio,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,serius,frontal,indoor_contrast.jpg",Elvannio,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,serius,frontal,indoor_clahe.jpg",Elvannio,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,serius,frontal,indoor_rotate_kanan.jpg",Elvannio,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,serius,frontal,indoor_rotate_kiri.jpg",Elvannio,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,serius,frontal,indoor_flip.jpg",Elvannio,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,serius,frontal,indoor_saturation.jpg",Elvannio,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,serius,frontal,indoor_noise.jpg",Elvannio,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,terkejut,frontal,indoor.jpg",Elvannio,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,terkejut,frontal,indoor_bright.jpg",Elvannio,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,terkejut,frontal,indoor_dark.jpg",Elvannio,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,terkejut,frontal,indoor_sharpened.jpg",Elvannio,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,terkejut,frontal,indoor_contrast.jpg",Elvannio,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,terkejut,frontal,indoor_clahe.jpg",Elvannio,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,terkejut,frontal,indoor_rotate_kanan.jpg",Elvannio,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,terkejut,frontal,indoor_rotate_kiri.jpg",Elvannio,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,terkejut,frontal,indoor_flip.jpg",Elvannio,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,terkejut,frontal,indoor_saturation.jpg",Elvannio,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,terkejut,frontal,indoor_noise.jpg",Elvannio,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,tersenyum,frontal,outdoor.jpg",Elvannio,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,tersenyum,frontal,outdoor_bright.jpg",Elvannio,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,tersenyum,frontal,outdoor_dark.jpg",Elvannio,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,tersenyum,frontal,outdoor_sharpened.jpg",Elvannio,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,tersenyum,frontal,outdoor_contrast.jpg",Elvannio,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,tersenyum,frontal,outdoor_clahe.jpg",Elvannio,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,tersenyum,frontal,outdoor_rotate_kanan.jpg",Elvannio,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,tersenyum,frontal,outdoor_rotate_kiri.jpg",Elvannio,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,tersenyum,frontal,outdoor_flip.jpg",Elvannio,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,tersenyum,frontal,outdoor_saturation.jpg",Elvannio,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Elvannio\Sunda\Elvannio,Sunda,tersenyum,frontal,outdoor_noise.jpg",Elvannio,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,frontal,indoor.jpg",Aurel,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,frontal,indoor_bright.jpg",Aurel,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,frontal,indoor_dark.jpg",Aurel,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,frontal,indoor_sharpened.jpg",Aurel,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,frontal,indoor_contrast.jpg",Aurel,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,frontal,indoor_clahe.jpg",Aurel,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,frontal,indoor_rotate_kanan.jpg",Aurel,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,frontal,indoor_rotate_kiri.jpg",Aurel,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,frontal,indoor_flip.jpg",Aurel,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,frontal,indoor_saturation.jpg",Aurel,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,frontal,indoor_noise.jpg",Aurel,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,samping,indoor.jpg",Aurel,Sunda,serius,samping,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,samping,indoor_bright.jpg",Aurel,Sunda,serius,samping,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,samping,indoor_dark.jpg",Aurel,Sunda,serius,samping,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,samping,indoor_sharpened.jpg",Aurel,Sunda,serius,samping,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,samping,indoor_contrast.jpg",Aurel,Sunda,serius,samping,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,samping,indoor_clahe.jpg",Aurel,Sunda,serius,samping,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,samping,indoor_rotate_kanan.jpg",Aurel,Sunda,serius,samping,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,samping,indoor_rotate_kiri.jpg",Aurel,Sunda,serius,samping,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,samping,indoor_flip.jpg",Aurel,Sunda,serius,samping,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,samping,indoor_saturation.jpg",Aurel,Sunda,serius,samping,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,serius,samping,indoor_noise.jpg",Aurel,Sunda,serius,samping,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,indoor.jpg",Aurel,Sunda,tersenyum,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,indoor_bright.jpg",Aurel,Sunda,tersenyum,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,indoor_dark.jpg",Aurel,Sunda,tersenyum,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,indoor_sharpened.jpg",Aurel,Sunda,tersenyum,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,indoor_contrast.jpg",Aurel,Sunda,tersenyum,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,indoor_clahe.jpg",Aurel,Sunda,tersenyum,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,indoor_rotate_kanan.jpg",Aurel,Sunda,tersenyum,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,indoor_rotate_kiri.jpg",Aurel,Sunda,tersenyum,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,indoor_flip.jpg",Aurel,Sunda,tersenyum,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,indoor_saturation.jpg",Aurel,Sunda,tersenyum,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,indoor_noise.jpg",Aurel,Sunda,tersenyum,frontal,indoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,outdoor.jpg",Aurel,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,outdoor_bright.jpg",Aurel,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,outdoor_dark.jpg",Aurel,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,outdoor_sharpened.jpg",Aurel,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,outdoor_contrast.jpg",Aurel,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,outdoor_clahe.jpg",Aurel,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,outdoor_rotate_kanan.jpg",Aurel,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,outdoor_rotate_kiri.jpg",Aurel,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,outdoor_flip.jpg",Aurel,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,outdoor_saturation.jpg",Aurel,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Aurel\Sunda\Aurel,Sunda,tersenyum,frontal,outdoor_noise.jpg",Aurel,Sunda,tersenyum,frontal,outdoor
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,marah,high angle,terang.jpg",Nayla,Sunda,marah,high angle,terang
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,marah,high angle,terang_bright.jpg",Nayla,Sunda,marah,high angle,terang
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,marah,high angle,terang_dark.jpg",Nayla,Sunda,marah,high angle,terang
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,marah,high angle,terang_sharpened.jpg",Nayla,Sunda,marah,high angle,terang
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,marah,high angle,terang_contrast.jpg",Nayla,Sunda,marah,high angle,terang
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,marah,high angle,terang_clahe.jpg",Nayla,Sunda,marah,high angle,terang
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,marah,high angle,terang_rotate_kanan.jpg",Nayla,Sunda,marah,high angle,terang
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,marah,high angle,terang_rotate_kiri.jpg",Nayla,Sunda,marah,high angle,terang
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,marah,high angle,terang_flip.jpg",Nayla,Sunda,marah,high angle,terang
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,marah,high angle,terang_saturation.jpg",Nayla,Sunda,marah,high angle,terang
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,marah,high angle,terang_noise.jpg",Nayla,Sunda,marah,high angle,terang
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,senyum,frontal,terang(outdoor).jpg",Nayla,Sunda,senyum,frontal,terang(outdoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,senyum,frontal,terang(outdoor)_bright.jpg",Nayla,Sunda,senyum,frontal,terang(outdoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,senyum,frontal,terang(outdoor)_dark.jpg",Nayla,Sunda,senyum,frontal,terang(outdoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,senyum,frontal,terang(outdoor)_sharpened.jpg",Nayla,Sunda,senyum,frontal,terang(outdoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,senyum,frontal,terang(outdoor)_contrast.jpg",Nayla,Sunda,senyum,frontal,terang(outdoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,senyum,frontal,terang(outdoor)_clahe.jpg",Nayla,Sunda,senyum,frontal,terang(outdoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,senyum,frontal,terang(outdoor)_rotate_kanan.jpg",Nayla,Sunda,senyum,frontal,terang(outdoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,senyum,frontal,terang(outdoor)_rotate_kiri.jpg",Nayla,Sunda,senyum,frontal,terang(outdoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,senyum,frontal,terang(outdoor)_flip.jpg",Nayla,Sunda,senyum,frontal,terang(outdoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,senyum,frontal,terang(outdoor)_saturation.jpg",Nayla,Sunda,senyum,frontal,terang(outdoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,senyum,frontal,terang(outdoor)_noise.jpg",Nayla,Sunda,senyum,frontal,terang(outdoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,serius,frontal,redup(indoor).jpg",Nayla,Sunda,serius,frontal,redup(indoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,serius,frontal,redup(indoor)_bright.jpg",Nayla,Sunda,serius,frontal,redup(indoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,serius,frontal,redup(indoor)_dark.jpg",Nayla,Sunda,serius,frontal,redup(indoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,serius,frontal,redup(indoor)_sharpened.jpg",Nayla,Sunda,serius,frontal,redup(indoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,serius,frontal,redup(indoor)_contrast.jpg",Nayla,Sunda,serius,frontal,redup(indoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,serius,frontal,redup(indoor)_clahe.jpg",Nayla,Sunda,serius,frontal,redup(indoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,serius,frontal,redup(indoor)_rotate_kanan.jpg",Nayla,Sunda,serius,frontal,redup(indoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,serius,frontal,redup(indoor)_rotate_kiri.jpg",Nayla,Sunda,serius,frontal,redup(indoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,serius,frontal,redup(indoor)_flip.jpg",Nayla,Sunda,serius,frontal,redup(indoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,serius,frontal,redup(indoor)_saturation.jpg",Nayla,Sunda,serius,frontal,redup(indoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,serius,frontal,redup(indoor)_noise.jpg",Nayla,Sunda,serius,frontal,redup(indoor)
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,tersenyum,high angle,indoor.jpg",Nayla,Sunda,tersenyum,high angle,indoor
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,tersenyum,high angle,indoor_bright.jpg",Nayla,Sunda,tersenyum,high angle,indoor
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,tersenyum,high angle,indoor_dark.jpg",Nayla,Sunda,tersenyum,high angle,indoor
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,tersenyum,high angle,indoor_sharpened.jpg",Nayla,Sunda,tersenyum,high angle,indoor
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,tersenyum,high angle,indoor_contrast.jpg",Nayla,Sunda,tersenyum,high angle,indoor
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,tersenyum,high angle,indoor_clahe.jpg",Nayla,Sunda,tersenyum,high angle,indoor
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,tersenyum,high angle,indoor_rotate_kanan.jpg",Nayla,Sunda,tersenyum,high angle,indoor
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,tersenyum,high angle,indoor_rotate_kiri.jpg",Nayla,Sunda,tersenyum,high angle,indoor
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,tersenyum,high angle,indoor_flip.jpg",Nayla,Sunda,tersenyum,high angle,indoor
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,tersenyum,high angle,indoor_saturation.jpg",Nayla,Sunda,tersenyum,high angle,indoor
+"dataset\preprocessed\Nayla\Sunda\Nayla,Sunda,tersenyum,high angle,indoor_noise.jpg",Nayla,Sunda,tersenyum,high angle,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor).jpg",Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)_bright.jpg",Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)_dark.jpg",Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)_sharpened.jpg",Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)_contrast.jpg",Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)_clahe.jpg",Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)_rotate_kanan.jpg",Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)_rotate_kiri.jpg",Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)_flip.jpg",Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)_saturation.jpg",Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)_noise.jpg",Raina,Sunda,menjulurkan lidah,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,serius,frontal,indoor.jpg",Raina,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,serius,frontal,indoor_bright.jpg",Raina,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,serius,frontal,indoor_dark.jpg",Raina,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,serius,frontal,indoor_sharpened.jpg",Raina,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,serius,frontal,indoor_contrast.jpg",Raina,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,serius,frontal,indoor_clahe.jpg",Raina,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,serius,frontal,indoor_rotate_kanan.jpg",Raina,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,serius,frontal,indoor_rotate_kiri.jpg",Raina,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,serius,frontal,indoor_flip.jpg",Raina,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,serius,frontal,indoor_saturation.jpg",Raina,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,serius,frontal,indoor_noise.jpg",Raina,Sunda,serius,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,terkejut,frontal,indoor.jpg",Raina,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,terkejut,frontal,indoor_bright.jpg",Raina,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,terkejut,frontal,indoor_dark.jpg",Raina,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,terkejut,frontal,indoor_sharpened.jpg",Raina,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,terkejut,frontal,indoor_contrast.jpg",Raina,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,terkejut,frontal,indoor_clahe.jpg",Raina,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,terkejut,frontal,indoor_rotate_kanan.jpg",Raina,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,terkejut,frontal,indoor_rotate_kiri.jpg",Raina,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,terkejut,frontal,indoor_flip.jpg",Raina,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,terkejut,frontal,indoor_saturation.jpg",Raina,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,terkejut,frontal,indoor_noise.jpg",Raina,Sunda,terkejut,frontal,indoor
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,tersenyum,frontal,terang(outdoor).jpg",Raina,Sunda,tersenyum,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,tersenyum,frontal,terang(outdoor)_bright.jpg",Raina,Sunda,tersenyum,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,tersenyum,frontal,terang(outdoor)_dark.jpg",Raina,Sunda,tersenyum,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,tersenyum,frontal,terang(outdoor)_sharpened.jpg",Raina,Sunda,tersenyum,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,tersenyum,frontal,terang(outdoor)_contrast.jpg",Raina,Sunda,tersenyum,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,tersenyum,frontal,terang(outdoor)_clahe.jpg",Raina,Sunda,tersenyum,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,tersenyum,frontal,terang(outdoor)_rotate_kanan.jpg",Raina,Sunda,tersenyum,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,tersenyum,frontal,terang(outdoor)_rotate_kiri.jpg",Raina,Sunda,tersenyum,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,tersenyum,frontal,terang(outdoor)_flip.jpg",Raina,Sunda,tersenyum,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,tersenyum,frontal,terang(outdoor)_saturation.jpg",Raina,Sunda,tersenyum,frontal,terang(outdoor)
+"dataset\preprocessed\Raina\Sunda\Raina,Sunda,tersenyum,frontal,terang(outdoor)_noise.jpg",Raina,Sunda,tersenyum,frontal,terang(outdoor)
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,serius,frontal,normal.jpg",Muthia,Jawa,serius,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,serius,frontal,normal_bright.jpg",Muthia,Jawa,serius,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,serius,frontal,normal_dark.jpg",Muthia,Jawa,serius,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,serius,frontal,normal_sharpened.jpg",Muthia,Jawa,serius,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,serius,frontal,normal_contrast.jpg",Muthia,Jawa,serius,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,serius,frontal,normal_clahe.jpg",Muthia,Jawa,serius,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,serius,frontal,normal_rotate_kanan.jpg",Muthia,Jawa,serius,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,serius,frontal,normal_rotate_kiri.jpg",Muthia,Jawa,serius,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,serius,frontal,normal_flip.jpg",Muthia,Jawa,serius,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,serius,frontal,normal_saturation.jpg",Muthia,Jawa,serius,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,serius,frontal,normal_noise.jpg",Muthia,Jawa,serius,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,terkejut,frontal,normal.jpg",Muthia,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,terkejut,frontal,normal_bright.jpg",Muthia,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,terkejut,frontal,normal_dark.jpg",Muthia,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,terkejut,frontal,normal_sharpened.jpg",Muthia,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,terkejut,frontal,normal_contrast.jpg",Muthia,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,terkejut,frontal,normal_clahe.jpg",Muthia,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,terkejut,frontal,normal_rotate_kanan.jpg",Muthia,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,terkejut,frontal,normal_rotate_kiri.jpg",Muthia,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,terkejut,frontal,normal_flip.jpg",Muthia,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,terkejut,frontal,normal_saturation.jpg",Muthia,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,terkejut,frontal,normal_noise.jpg",Muthia,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_bright.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_dark.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_sharpened.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_contrast.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_clahe.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_rotate_kanan.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_rotate_kiri.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_flip.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_saturation.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_noise.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_bright.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_dark.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_sharpened.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_contrast.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_clahe.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_rotate_kanan.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_rotate_kiri.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_flip.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_saturation.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Muthia\Jawa\Muthia,Jawa,tersenyum,frontal,terang-indoor_noise.jpg",Muthia,Jawa,tersenyum,frontal,terang-indoor
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,serius,miring,Terang.jpg",Amalia,Jawa,serius,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,serius,miring,Terang_bright.jpg",Amalia,Jawa,serius,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,serius,miring,Terang_dark.jpg",Amalia,Jawa,serius,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,serius,miring,Terang_sharpened.jpg",Amalia,Jawa,serius,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,serius,miring,Terang_contrast.jpg",Amalia,Jawa,serius,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,serius,miring,Terang_clahe.jpg",Amalia,Jawa,serius,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,serius,miring,Terang_rotate_kanan.jpg",Amalia,Jawa,serius,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,serius,miring,Terang_rotate_kiri.jpg",Amalia,Jawa,serius,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,serius,miring,Terang_flip.jpg",Amalia,Jawa,serius,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,serius,miring,Terang_saturation.jpg",Amalia,Jawa,serius,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,serius,miring,Terang_noise.jpg",Amalia,Jawa,serius,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,mengjulurkan lidah,frontal,normal.jpg",Amalia,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,mengjulurkan lidah,frontal,normal_bright.jpg",Amalia,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,mengjulurkan lidah,frontal,normal_dark.jpg",Amalia,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,mengjulurkan lidah,frontal,normal_sharpened.jpg",Amalia,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,mengjulurkan lidah,frontal,normal_contrast.jpg",Amalia,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,mengjulurkan lidah,frontal,normal_clahe.jpg",Amalia,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,mengjulurkan lidah,frontal,normal_rotate_kanan.jpg",Amalia,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,mengjulurkan lidah,frontal,normal_rotate_kiri.jpg",Amalia,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,mengjulurkan lidah,frontal,normal_flip.jpg",Amalia,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,mengjulurkan lidah,frontal,normal_saturation.jpg",Amalia,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,mengjulurkan lidah,frontal,normal_noise.jpg",Amalia,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum gigi,miring,Terang.jpg",Amalia,Jawa,tersenyum gigi,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum gigi,miring,Terang_bright.jpg",Amalia,Jawa,tersenyum gigi,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum gigi,miring,Terang_dark.jpg",Amalia,Jawa,tersenyum gigi,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum gigi,miring,Terang_sharpened.jpg",Amalia,Jawa,tersenyum gigi,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum gigi,miring,Terang_contrast.jpg",Amalia,Jawa,tersenyum gigi,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum gigi,miring,Terang_clahe.jpg",Amalia,Jawa,tersenyum gigi,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum gigi,miring,Terang_rotate_kanan.jpg",Amalia,Jawa,tersenyum gigi,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum gigi,miring,Terang_rotate_kiri.jpg",Amalia,Jawa,tersenyum gigi,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum gigi,miring,Terang_flip.jpg",Amalia,Jawa,tersenyum gigi,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum gigi,miring,Terang_saturation.jpg",Amalia,Jawa,tersenyum gigi,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum gigi,miring,Terang_noise.jpg",Amalia,Jawa,tersenyum gigi,miring,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum,frontal,Terang.jpg",Amalia,Jawa,tersenyum,frontal,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum,frontal,Terang_bright.jpg",Amalia,Jawa,tersenyum,frontal,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum,frontal,Terang_dark.jpg",Amalia,Jawa,tersenyum,frontal,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum,frontal,Terang_sharpened.jpg",Amalia,Jawa,tersenyum,frontal,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum,frontal,Terang_contrast.jpg",Amalia,Jawa,tersenyum,frontal,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum,frontal,Terang_clahe.jpg",Amalia,Jawa,tersenyum,frontal,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum,frontal,Terang_rotate_kanan.jpg",Amalia,Jawa,tersenyum,frontal,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum,frontal,Terang_rotate_kiri.jpg",Amalia,Jawa,tersenyum,frontal,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum,frontal,Terang_flip.jpg",Amalia,Jawa,tersenyum,frontal,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum,frontal,Terang_saturation.jpg",Amalia,Jawa,tersenyum,frontal,Terang
+"dataset\preprocessed\Amalia\Jawa\Amalia,Jawa,tersenyum,frontal,Terang_noise.jpg",Amalia,Jawa,tersenyum,frontal,Terang
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,imut,frontal,normal.jpg",Emiyati,Jawa,imut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,imut,frontal,normal_bright.jpg",Emiyati,Jawa,imut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,imut,frontal,normal_dark.jpg",Emiyati,Jawa,imut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,imut,frontal,normal_sharpened.jpg",Emiyati,Jawa,imut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,imut,frontal,normal_contrast.jpg",Emiyati,Jawa,imut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,imut,frontal,normal_clahe.jpg",Emiyati,Jawa,imut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,imut,frontal,normal_rotate_kanan.jpg",Emiyati,Jawa,imut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,imut,frontal,normal_rotate_kiri.jpg",Emiyati,Jawa,imut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,imut,frontal,normal_flip.jpg",Emiyati,Jawa,imut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,imut,frontal,normal_saturation.jpg",Emiyati,Jawa,imut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,imut,frontal,normal_noise.jpg",Emiyati,Jawa,imut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,serius,frontalBawah,normal.jpg",Emiyati,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,serius,frontalBawah,normal_bright.jpg",Emiyati,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,serius,frontalBawah,normal_dark.jpg",Emiyati,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,serius,frontalBawah,normal_sharpened.jpg",Emiyati,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,serius,frontalBawah,normal_contrast.jpg",Emiyati,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,serius,frontalBawah,normal_clahe.jpg",Emiyati,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,serius,frontalBawah,normal_rotate_kanan.jpg",Emiyati,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,serius,frontalBawah,normal_rotate_kiri.jpg",Emiyati,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,serius,frontalBawah,normal_flip.jpg",Emiyati,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,serius,frontalBawah,normal_saturation.jpg",Emiyati,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,serius,frontalBawah,normal_noise.jpg",Emiyati,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,terkejut,frontal,normal.jpg",Emiyati,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,terkejut,frontal,normal_bright.jpg",Emiyati,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,terkejut,frontal,normal_dark.jpg",Emiyati,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,terkejut,frontal,normal_sharpened.jpg",Emiyati,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,terkejut,frontal,normal_contrast.jpg",Emiyati,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,terkejut,frontal,normal_clahe.jpg",Emiyati,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,terkejut,frontal,normal_rotate_kanan.jpg",Emiyati,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,terkejut,frontal,normal_rotate_kiri.jpg",Emiyati,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,terkejut,frontal,normal_flip.jpg",Emiyati,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,terkejut,frontal,normal_saturation.jpg",Emiyati,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,terkejut,frontal,normal_noise.jpg",Emiyati,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,tersenyum,miring,redup.jpg",Emiyati,Jawa,tersenyum,miring,redup
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,tersenyum,miring,redup_bright.jpg",Emiyati,Jawa,tersenyum,miring,redup
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,tersenyum,miring,redup_dark.jpg",Emiyati,Jawa,tersenyum,miring,redup
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,tersenyum,miring,redup_sharpened.jpg",Emiyati,Jawa,tersenyum,miring,redup
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,tersenyum,miring,redup_contrast.jpg",Emiyati,Jawa,tersenyum,miring,redup
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,tersenyum,miring,redup_clahe.jpg",Emiyati,Jawa,tersenyum,miring,redup
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,tersenyum,miring,redup_rotate_kanan.jpg",Emiyati,Jawa,tersenyum,miring,redup
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,tersenyum,miring,redup_rotate_kiri.jpg",Emiyati,Jawa,tersenyum,miring,redup
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,tersenyum,miring,redup_flip.jpg",Emiyati,Jawa,tersenyum,miring,redup
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,tersenyum,miring,redup_saturation.jpg",Emiyati,Jawa,tersenyum,miring,redup
+"dataset\preprocessed\Emiyati\Jawa\Emiyati,Jawa,tersenyum,miring,redup_noise.jpg",Emiyati,Jawa,tersenyum,miring,redup
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,mengjulurkan lidah,frontal,normal.jpg",Febytha,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,mengjulurkan lidah,frontal,normal_bright.jpg",Febytha,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,mengjulurkan lidah,frontal,normal_dark.jpg",Febytha,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,mengjulurkan lidah,frontal,normal_sharpened.jpg",Febytha,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,mengjulurkan lidah,frontal,normal_contrast.jpg",Febytha,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,mengjulurkan lidah,frontal,normal_clahe.jpg",Febytha,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,mengjulurkan lidah,frontal,normal_rotate_kanan.jpg",Febytha,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,mengjulurkan lidah,frontal,normal_rotate_kiri.jpg",Febytha,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,mengjulurkan lidah,frontal,normal_flip.jpg",Febytha,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,mengjulurkan lidah,frontal,normal_saturation.jpg",Febytha,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,mengjulurkan lidah,frontal,normal_noise.jpg",Febytha,Jawa,mengjulurkan lidah,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,serius,frontalBawah,normal.jpg",Febytha,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,serius,frontalBawah,normal_bright.jpg",Febytha,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,serius,frontalBawah,normal_dark.jpg",Febytha,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,serius,frontalBawah,normal_sharpened.jpg",Febytha,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,serius,frontalBawah,normal_contrast.jpg",Febytha,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,serius,frontalBawah,normal_clahe.jpg",Febytha,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,serius,frontalBawah,normal_rotate_kanan.jpg",Febytha,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,serius,frontalBawah,normal_rotate_kiri.jpg",Febytha,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,serius,frontalBawah,normal_flip.jpg",Febytha,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,serius,frontalBawah,normal_saturation.jpg",Febytha,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,serius,frontalBawah,normal_noise.jpg",Febytha,Jawa,serius,frontalBawah,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,terkejut,frontal,normal.jpg",Febytha,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,terkejut,frontal,normal_bright.jpg",Febytha,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,terkejut,frontal,normal_dark.jpg",Febytha,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,terkejut,frontal,normal_sharpened.jpg",Febytha,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,terkejut,frontal,normal_contrast.jpg",Febytha,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,terkejut,frontal,normal_clahe.jpg",Febytha,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,terkejut,frontal,normal_rotate_kanan.jpg",Febytha,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,terkejut,frontal,normal_rotate_kiri.jpg",Febytha,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,terkejut,frontal,normal_flip.jpg",Febytha,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,terkejut,frontal,normal_saturation.jpg",Febytha,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,terkejut,frontal,normal_noise.jpg",Febytha,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,tersenyum,frontal,terang.jpg",Febytha,Jawa,tersenyum,frontal,terang
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,tersenyum,frontal,terang_bright.jpg",Febytha,Jawa,tersenyum,frontal,terang
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,tersenyum,frontal,terang_dark.jpg",Febytha,Jawa,tersenyum,frontal,terang
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,tersenyum,frontal,terang_sharpened.jpg",Febytha,Jawa,tersenyum,frontal,terang
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,tersenyum,frontal,terang_contrast.jpg",Febytha,Jawa,tersenyum,frontal,terang
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,tersenyum,frontal,terang_clahe.jpg",Febytha,Jawa,tersenyum,frontal,terang
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,tersenyum,frontal,terang_rotate_kanan.jpg",Febytha,Jawa,tersenyum,frontal,terang
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,tersenyum,frontal,terang_rotate_kiri.jpg",Febytha,Jawa,tersenyum,frontal,terang
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,tersenyum,frontal,terang_flip.jpg",Febytha,Jawa,tersenyum,frontal,terang
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,tersenyum,frontal,terang_saturation.jpg",Febytha,Jawa,tersenyum,frontal,terang
+"dataset\preprocessed\Febytha\Jawa\Febytha,Jawa,tersenyum,frontal,terang_noise.jpg",Febytha,Jawa,tersenyum,frontal,terang
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang.jpg",Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang_bright.jpg",Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang_dark.jpg",Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang_sharpened.jpg",Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang_contrast.jpg",Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang_clahe.jpg",Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang_rotate_kanan.jpg",Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang_rotate_kiri.jpg",Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang_flip.jpg",Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang_saturation.jpg",Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang_noise.jpg",Fleecy,Jawa,mengjulurkan lidah,frontalAtas,terang
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,serius,frontal,normal.jpg",Fleecy,Jawa,serius,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,serius,frontal,normal_bright.jpg",Fleecy,Jawa,serius,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,serius,frontal,normal_dark.jpg",Fleecy,Jawa,serius,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,serius,frontal,normal_sharpened.jpg",Fleecy,Jawa,serius,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,serius,frontal,normal_contrast.jpg",Fleecy,Jawa,serius,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,serius,frontal,normal_clahe.jpg",Fleecy,Jawa,serius,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,serius,frontal,normal_rotate_kanan.jpg",Fleecy,Jawa,serius,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,serius,frontal,normal_rotate_kiri.jpg",Fleecy,Jawa,serius,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,serius,frontal,normal_flip.jpg",Fleecy,Jawa,serius,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,serius,frontal,normal_saturation.jpg",Fleecy,Jawa,serius,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,serius,frontal,normal_noise.jpg",Fleecy,Jawa,serius,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,terkejut,frontal,normal.jpg",Fleecy,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,terkejut,frontal,normal_bright.jpg",Fleecy,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,terkejut,frontal,normal_dark.jpg",Fleecy,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,terkejut,frontal,normal_sharpened.jpg",Fleecy,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,terkejut,frontal,normal_contrast.jpg",Fleecy,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,terkejut,frontal,normal_clahe.jpg",Fleecy,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,terkejut,frontal,normal_rotate_kanan.jpg",Fleecy,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,terkejut,frontal,normal_rotate_kiri.jpg",Fleecy,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,terkejut,frontal,normal_flip.jpg",Fleecy,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,terkejut,frontal,normal_saturation.jpg",Fleecy,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,terkejut,frontal,normal_noise.jpg",Fleecy,Jawa,terkejut,frontal,normal
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,tersenyum,frontal,gelap.jpg",Fleecy,Jawa,tersenyum,frontal,gelap
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,tersenyum,frontal,gelap_bright.jpg",Fleecy,Jawa,tersenyum,frontal,gelap
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,tersenyum,frontal,gelap_dark.jpg",Fleecy,Jawa,tersenyum,frontal,gelap
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,tersenyum,frontal,gelap_sharpened.jpg",Fleecy,Jawa,tersenyum,frontal,gelap
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,tersenyum,frontal,gelap_contrast.jpg",Fleecy,Jawa,tersenyum,frontal,gelap
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,tersenyum,frontal,gelap_clahe.jpg",Fleecy,Jawa,tersenyum,frontal,gelap
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,tersenyum,frontal,gelap_rotate_kanan.jpg",Fleecy,Jawa,tersenyum,frontal,gelap
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,tersenyum,frontal,gelap_rotate_kiri.jpg",Fleecy,Jawa,tersenyum,frontal,gelap
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,tersenyum,frontal,gelap_flip.jpg",Fleecy,Jawa,tersenyum,frontal,gelap
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,tersenyum,frontal,gelap_saturation.jpg",Fleecy,Jawa,tersenyum,frontal,gelap
+"dataset\preprocessed\Fleecy\Jawa\Fleecy,Jawa,tersenyum,frontal,gelap_noise.jpg",Fleecy,Jawa,tersenyum,frontal,gelap
