@@ -18,7 +18,6 @@ def preprocess_image(image_path, detector):
 def extract_labels_from_path(image_path):
     filename = os.path.basename(image_path).split('.')[0]
     
-    # Mengganti tanda underscore dengan koma jika ada (untuk nama augmentasi)
     filename = filename.replace("_", ",")
     
     parts = filename.split(',')
@@ -41,7 +40,20 @@ def save_to_csv(csv_path, image_path, nama, suku, ekspresi, sudut, pencahayaan):
             writer.writerow(['Path', 'Nama', 'Suku', 'Ekspresi', 'Sudut', 'Pencahayaan'])
         writer.writerow(row)
 
-def save_faces(image, faces, output_dir, file_name, label_info, csv_path):
+def save_to_training_csv(csv_path, image_path, nama, suku, ekspresi, sudut, pencahayaan):
+    image_path = image_path.replace('/', '\\')  # format path Windows
+    row = [image_path, nama, suku, ekspresi, sudut, pencahayaan]
+
+    file_exists = os.path.isfile(csv_path)
+    with open(csv_path, mode='a', newline='', encoding='utf-8') as csvfile:
+        writer = csv.writer(csvfile)
+        if not file_exists:
+            writer.writerow(['Path', 'Nama', 'Suku', 'Ekspresi', 'Sudut', 'Pencahayaan'])
+        writer.writerow(row)
+
+
+
+def save_faces(image, faces, output_dir, file_name, label_info, csv_path, training_csv_path=None):
     for idx, face in enumerate(faces):
         x, y, w, h = face['box']
         conf = face['confidence']
@@ -55,15 +67,18 @@ def save_faces(image, faces, output_dir, file_name, label_info, csv_path):
         save_path = os.path.join(output_dir, f"{file_name}.jpg")
         image_bgr = cv2.cvtColor(image, cv2.COLOR_RGB2BGR)
 
-        # Simpan augmented wajah ke direktori
         augmented_paths = save_augmented_faces(image_bgr, [face], save_path)
 
-        # Simpan semua hasil augmentasi ke CSV
         for aug_path in augmented_paths:
             save_to_csv(csv_path, aug_path, *label_info)
 
+            aug_name = os.path.basename(aug_path)
+            if 'sharpened' in aug_name or 'contrast' in aug_name or 'saturation' in aug_name or 'noise' in aug_name or 'flip' in aug_name:
+                save_to_training_csv(training_csv_path, aug_path, *label_info)
 
-def process_faces(df, detector, csv_path):
+
+
+def process_faces(df, detector, csv_path, training_csv_path):
     for _, row in df.iterrows():
         img_path = row["Path"]
         print(f"[INFO] Memproses: {img_path}")
@@ -90,11 +105,12 @@ def process_faces(df, detector, csv_path):
         label_info = extract_labels_from_path(img_path)
 
         # Simpan wajah dan catat ke CSV
-        save_faces(image_rgb, faces, output_dir, file_name, label_info, csv_path)
+        save_faces(image_rgb, faces, output_dir, file_name, label_info, csv_path, training_csv_path)
 
 if __name__ == "__main__":
     detector = MTCNN()
     csv_path = "dataset.csv"
+    training_csv_path = "training.csv"
 
     # Load dataset CSV yang berisi path gambar awal
     df = pd.read_csv(csv_path)
@@ -103,7 +119,12 @@ if __name__ == "__main__":
     # Hapus CSV lama dan buat baru
     if os.path.exists(csv_path):
         os.remove(csv_path)
+    
+    if os.path.exists(training_csv_path):
+        os.remove(training_csv_path)
 
     print("[DEBUG] Kolom CSV ditemukan:", df.columns)
-    process_faces(df, detector, csv_path)
-    print("Proses selesai. Semua hasil tercatat dalam dataset.csv")
+    process_faces(df, detector, csv_path, training_csv_path)
+    print("Proses selesai. Semua hasil tercatat dalam dataset.csv dan training.csv")
+
+

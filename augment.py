@@ -70,12 +70,10 @@ def save_augmented_faces(original_image, faces, save_path):
 
         face_resized = cv2.resize(cropped, (160, 160))
 
-        # Simpan gambar original TANPA embel-embel
         original_face_path = os.path.join(output_dir, f"{name}.jpg")
         cv2.imwrite(original_face_path, face_resized)
         saved_paths.append(original_face_path)
 
-        # Simpan hasil augmentasi (TANPA menyimpan ulang original)
         variations = {
             "bright": adjust_brightness_pil(face_resized, factor=1.5),
             "dark": adjust_brightness_pil(face_resized, factor=0.5),
